@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 function App() {
-  const handleClick = () =>{
+  const handleClick = () => {
     console.log('hello')
   }
   return (
